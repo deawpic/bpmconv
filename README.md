@@ -45,3 +45,5 @@ pyinstaller --noconsole --onefile \
 --collect-all librosa \
 main.py
 ```
+---
+![Main App](Screenshot1png)
